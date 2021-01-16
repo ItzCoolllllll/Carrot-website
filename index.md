@@ -1,5 +1,6 @@
+<div class="text-orange">
 ## Welcome to 蘿蔔先生's official website!
-
+</div>
 In case you came here by accident, here is a [link](https://www.youtube.com/channel/UCivFdElFMoozxWlNqQsyNUw) to his channel.
 
 While you are here, feel free to join our [discord server](https://discord.gg/UdNqmQfZcz)!
