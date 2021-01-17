@@ -9,7 +9,7 @@ While you are here, feel free to join our [discord server](https://discord.gg/Ud
 Hi everyone, I am 蘿蔔先生! I am a youtuber that started about 2 years ago!
 
 My first video:
-[![My First Video](https://img.youtube.com/vi/7hEmZ3OV_s0&t=4s/0.jpg)](https://www.youtube.com/watch?v=7hEmZ3OV_s0&t=4s)
+[![My First Video](http://i3.ytimg.com/vi/7hEmZ3OV_s0/hqdefault.jpg)](https://www.youtube.com/watch?v=7hEmZ3OV_s0&t=4s)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
