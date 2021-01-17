@@ -5,6 +5,11 @@ In case you came here by accident, here is a [link](https://www.youtube.com/chan
 While you are here, feel free to join our [discord server](https://discord.gg/UdNqmQfZcz)!
 
 ![Carrot](https://user-images.githubusercontent.com/77493028/104836657-65e48a00-58ea-11eb-8ea7-793a30b4cbc4.png)
+
+Hi everyone, I am 蘿蔔先生! I am a youtuber that started about 2 years ago!
+
+My first video:
+[![My First Video](https://img.youtube.com/vi/7hEmZ3OV_s0&t=4s/0.jpg)](https://www.youtube.com/watch?v=7hEmZ3OV_s0&t=4s)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
