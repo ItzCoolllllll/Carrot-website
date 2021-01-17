@@ -4,7 +4,7 @@ In case you came here by accident, here is a [link](https://www.youtube.com/chan
 
 While you are here, feel free to join our [discord server](https://discord.gg/UdNqmQfZcz)!
 
-![Carrot]
+![Carrot](https://user-images.githubusercontent.com/77493028/104836657-65e48a00-58ea-11eb-8ea7-793a30b4cbc4.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
