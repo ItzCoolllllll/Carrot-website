@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to 蘿蔔先生's official website!
 
 In case you came here by accident, here is a [link](https://www.youtube.com/channel/UCivFdElFMoozxWlNqQsyNUw) to his channel.
