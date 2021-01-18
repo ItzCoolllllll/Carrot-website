@@ -17,6 +17,7 @@ layout: default
 
 ![teampic](https://user-images.githubusercontent.com/77493028/104924892-0add9080-59d9-11eb-91a3-ed00fd0428d2.jpeg)
 
+`Left: Carrot de Adrian; Middle: Kenward da Melon; Right: Alvis da Corn; Right bottom: Thomas da Frog`
 
   **Kenward da Melon**
   
