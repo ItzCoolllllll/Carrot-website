@@ -4,15 +4,16 @@ layout: default
 
 ## Our team
 
+```
 -PUBG team: Team Laboratory
 
 leader: Alvis da Corn
-
-
+```
+```
 -alliance: LabXTalents
 
-
-
+chairman: Carrot de Adrian
+```
 
 
   **Kenward da Melon**
