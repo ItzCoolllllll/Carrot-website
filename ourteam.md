@@ -4,10 +4,11 @@ layout: default
 
 ## Our team
 
+```fix
 -PUBG team: Team Laboratory
 
--leader: Alvis da Corn
-
+leader: Alvis da Corn
+```
 
 -alliance: LabXTalents
 
