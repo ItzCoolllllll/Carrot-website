@@ -7,12 +7,12 @@ layout: default
 ```md
 [-PUBG team: Team Laboratory]
 
-[leader: Alvis da Corn]
+ [leader: Alvis da Corn]
 ```
 ```md
--Alliance: LabXTalents
+[-Alliance: LabXTalents]
 
-Founder: Carrot de Adrian
+ [Founder: Carrot de Adrian]
 ```
 
 
