@@ -9,9 +9,11 @@ layout: default
 
 [leader: Alvis da Corn]
 ```
+```md
+-Alliance: LabXTalents
 
--alliance: LabXTalents
-
+Founder: Carrot de Adrian
+```
 
 
 
