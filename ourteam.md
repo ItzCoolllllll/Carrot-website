@@ -1,7 +1,5 @@
 ---
-title: Our team
-layout: Cayman 
-filename: ourteam.md 
+layout: default 
 --- 
 
 ## Our team
