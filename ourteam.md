@@ -1,6 +1,6 @@
 ---
 title: Our team
-layout: Cayman
+layout: Cayman 
 filename: ourteam.md 
 --- 
 
