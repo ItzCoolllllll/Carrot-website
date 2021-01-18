@@ -4,6 +4,17 @@ layout: default
 
 ## Our team
 
+-PUBG team: Team Laboratory
+
+leader: Alvis da Corn
+
+
+-alliance: LabXTalents
+
+
+
+
+
   **Kenward da Melon**
   
   Hello, I am Kenward da Melon, I developed the Carrot discord server and this website. 
@@ -16,4 +27,6 @@ layout: default
 
  [something]
  
-  **
+  **Alvis da Corn**
+  
+  Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
