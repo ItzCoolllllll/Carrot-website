@@ -4,21 +4,20 @@ layout: default
 
 ## Our team
 
-```
 -PUBG team: Team Laboratory
 
-leader: Alvis da Corn
-```
-```
+-leader: Alvis da Corn
+
+
 -alliance: LabXTalents
 
-chairman: Carrot de Adrian
-```
+
+
 
 
   **Kenward da Melon**
   
-  Hello, I am Kenward da Melon, I developed the Carrot discord server and this website. 
+  Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn! I developed the Carrot discord server and this website. 
   
   **Thomas da Frog**
   
