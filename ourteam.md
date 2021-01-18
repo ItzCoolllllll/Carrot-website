@@ -4,10 +4,10 @@ layout: default
 
 ## Our team
 
-```python
--PUBG team: Team Laboratory
+```md
+[-PUBG team: Team Laboratory]
 
-leader: Alvis da Corn
+[leader: Alvis da Corn]
 ```
 
 -alliance: LabXTalents
