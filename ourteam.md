@@ -4,7 +4,7 @@ layout: default
 
 ## Our team
 
-```fix
+```json
 -PUBG team: Team Laboratory
 
 leader: Alvis da Corn
