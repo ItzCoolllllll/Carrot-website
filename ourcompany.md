@@ -43,13 +43,13 @@ Vice-chairperson: Kenward Da Melon
 ```css
 Carrot, as introduced just now, created LabXTalens in a quite funny way.
 
-reponsible for both internal and external matters
+-reponsible for both internal and external matters
 
-creating games
+-creating games
 
-making websites
+-making websites
 
-internet matters
+-internet matters
 ```
 
 Secondly, we have:
@@ -61,11 +61,11 @@ Vice Person-in-Charge: Josh Da Leaf
 ```
 
 ```css
-reponsible for both internal and external matters
+-reponsible for both internal and external matters
 
-making websites
+-making websites
 
-internet matters
+-internet matters
 ```
 
 Thirdly, we have:
@@ -75,7 +75,7 @@ Secretary Genereal: Aston Wong
 ```
 
 ```css
-participator and member
+-participator and member
 ```
 
 Lastly, we have:
@@ -85,7 +85,7 @@ Talents Data Manager: Hayden Da Frying Pan
 ```
 
 ```css
-repsonsible for managing the data of our talents count
+-repsonsible for managing the data of our talents count
 
 (talents count refers to the number of talents events that have happened)
 
