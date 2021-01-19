@@ -31,11 +31,10 @@ One special thing in our 'company' is: **we have two chairpersons**
 The following is our name with our position and some introductions
 
 ```js
-Chairperson + Founder: Carrot De Adrian
+Chairperson     : Carrot De Adrian (Founder)
+                : Thomas Da Frog
 
-Chairperson          : Thomas Da Frog
-
-Vice-chairperson     : Kenward Da Melon
+Vice-chairperson: Kenward Da Melon
 ```
 
 ```css
