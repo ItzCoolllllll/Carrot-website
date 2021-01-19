@@ -67,12 +67,13 @@
           <div class="footer-section contact-form">
             <h2 class="logo-text"><span>Contact Us</span></h2>
             <br>
-            <form action="mail_handler.php" method="
-             FullName: <input type="text" name="full_name"><br>
-             Email: <input type="text" name="email"><br>
-             Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
-             <input type="submit" name="submit" value="Submit">
-            </form>      
+            
+            <form action="https://formspree.io/f/xbjpwdrb" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
           </div>
         </div>
         
