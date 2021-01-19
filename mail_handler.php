@@ -12,6 +12,7 @@
         $headers2 = "From:" . $to;
         mail($to,$subject,$message,$headers);
         mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+        header("Location: default.html");
         echo "Mail Sent. Thank you " . $full_name . ", we will contact you";
         }
     ?>
