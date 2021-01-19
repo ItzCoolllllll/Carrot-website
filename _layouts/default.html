@@ -67,30 +67,12 @@
           <div class="footer-section contact-form">
             <h2 class="logo-text"><span>Contact Us</span></h2>
             <br>
-            <form action='kenward.cheung@gmail.com' method='POST' name='contact-form'>
-  <div>
-    Name: 
-  </div>
-  <input class='contact-form-name' id='ContactForm1_contact-form-name' name='name'  size='30' type='text' value=''/>
-  <div>
-    Email:
-  </div>
-  <input class='contact-form-email' id='ContactForm1_contact-form-email' name='email'    size='30' type='text' value=''/>
-  <div>
-    Contact Number:
-  </div>
-  <input class='contact-form-number' id='ContactForm1_contact-form-number' name='number' size='30' type='text' value=''/>
-  <div>
-    Item Details:
-  </div>
-  <textarea class='contact-form-email-message' id='ContactForm1_contact-form-email-message' name='email-message' rows='5'/>
-  <p/>
-  <input class='submit' id='ContactForm1_contact-form-submit' type='submit' value='Send'/>
-  <div style='text-align: center; max-width: 450px; width: 100%'>
-    <p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'/>
-    <p class='contact-form-success-message' id='ContactForm1_contact-form-success- message'/>
-  </div>
-</form>
+            <form action="mail_handler.php" method="
+             FullName: <input type="text" name="full_name"><br>
+             Email: <input type="text" name="email"><br>
+             Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
+             <input type="submit" name="submit" value="Submit">
+            </form>      
           </div>
         </div>
         
