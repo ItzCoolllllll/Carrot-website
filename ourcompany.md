@@ -36,22 +36,18 @@ Chairperson + Founder: Carrot De Adrian
 Chairperson          : Thomas Da Frog
 
 Vice-chairperson     : Kenward Da Melon
-
 ```
 
 ```
 Person-in-Charge     : Alvis Da Corn
 
 Vice Person-in-Charge: Josh Da Leaf
-
 ```
 
 ```js
 Secretary Genereal: Aston Wong
-
 ```
 
 ```css
 Talents Data Manager: Hayden Da Frying Pan
-
 ```
