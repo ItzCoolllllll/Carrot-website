@@ -24,7 +24,7 @@ Moreover. our team name in PUBG is 'Team Laboratory' (實驗室隊).
 
 So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
-<span style="color: red">
+<span style="colour: red">
  
 **Members**
 
