@@ -40,4 +40,4 @@ layout: default
   
   Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
   
-  Fill free to follow me in [instagram] (https://www.instagram.com/yshalvis06/)
+  Fill free to follow me in [instagram](https://www.instagram.com/yshalvis06/)
