@@ -19,7 +19,7 @@ layout: default
 
 `Left: Carrot de Adrian; Middle: Kenward da Melon; Right: Alvis da Corn; Right bottom: Thomas da Frog`
 
-  _**Kenward da Melon**_
+  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=**Kenward da Melon**)
   
   Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn!
   
