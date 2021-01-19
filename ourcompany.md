@@ -34,7 +34,7 @@ The following is our name with our position and some introductions
 
 </span>
 
-TextColor::GetLegacyIndex
+'TextColor::GetLegacyIndex'
 
 ```
 Chairperson     : Carrot De Adrian (Founder)
