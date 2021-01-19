@@ -7,12 +7,12 @@ layout: default
 ```md
 [PUBG team: Team Laboratory]
 
- [leader: Alvis da Corn]
+[leader: Alvis da Corn]
 ```
 ```md
 [Alliance: LabXTalents]
 
- [Founder: Carrot de Adrian]
+[Founder: Carrot de Adrian]
 ```
 
 ![teampic](https://user-images.githubusercontent.com/77493028/104924892-0add9080-59d9-11eb-91a3-ed00fd0428d2.jpeg)
