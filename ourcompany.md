@@ -35,6 +35,10 @@ Chairperson          : Thomas Da Frog
 
 Vice-chairperson     : Kenward Da Melon
 ```
- 
+
+```css
+Person-in-Charge     : Alvis Da Corn
+Vice Person-in-Charge: Josh Da Leaf
+```
 
 
