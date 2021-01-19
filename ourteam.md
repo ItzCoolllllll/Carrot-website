@@ -5,12 +5,12 @@ layout: default
 ## Our team
 
 ```md
-[-PUBG team: Team Laboratory]
+[PUBG team: Team Laboratory]
 
  [leader: Alvis da Corn]
 ```
 ```md
-[-Alliance: LabXTalents]
+[Alliance: LabXTalents]
 
  [Founder: Carrot de Adrian]
 ```
