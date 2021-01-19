@@ -19,7 +19,7 @@ layout: default
 
 `Left: Carrot de Adrian; Middle: Kenward da Melon; Right: Alvis da Corn; Right bottom: Thomas da Frog`
 
-  `Kenward da Melon`
+  **Kenward da Melon**
   
   Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn!
   
@@ -30,7 +30,7 @@ layout: default
   Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)
 
   
-  `Thomas da Frog`
+  **Thomas da Frog**
   
   Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn.
   
@@ -41,7 +41,7 @@ layout: default
   Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)
   
   
-  `Carrot de Adrian`
+  **Carrot de Adrian**
 
   Hello, I am Carrot De Adrian, a youtuber as stated [here](https://itzcoolllllll.github.io/carrot/index).
   
@@ -49,10 +49,10 @@ layout: default
   
   I mostly deal with the matters about asehetic perception.
   
-  `Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)`
+  Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
  
   
-  `Alvis da Corn`
+  **Alvis da Corn**
   
   Hello, I am Alvis da Corn, leader of 'Team Laboratory'.
   
