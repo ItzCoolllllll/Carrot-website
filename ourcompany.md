@@ -7,9 +7,10 @@ layout: default
  When you clicked inside here, you should be very shocked or incredible.
  You may be wondering why do we have a **company**.
  Our alliance, in order words, our company is not in reality, however, a place for us to enteretain ourselves.
- 
-To know more, there are breif introductions about our 'company'.
-Also, feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
+
+Feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
+
+To know more, there are breif introductions about our 'company':
 
 **Breif introduction**
 
