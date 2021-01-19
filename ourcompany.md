@@ -82,8 +82,9 @@ Talents Data Manager: Hayden Da Frying Pan
 
 ```
 -repsonsible for managing the data of our talents count
-```
+
 
 (talents count refers to the number of talents events that have happened)
 
-(usually counted in months)`
+(usually counted in months)
+```
