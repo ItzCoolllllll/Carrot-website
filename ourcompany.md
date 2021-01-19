@@ -23,3 +23,18 @@ Moreover. our team name in PUBG is 'Team Laboratory' (實驗室隊).
 So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
 **Members**
+
+One special thing in our company is: **we have two chairpersons**
+
+The following is our our name wit our position and some introductions
+
+```
+**Chairperson** + Founder: **Carrot De Adrian**
+
+**Chairperson**          : **Thomas Da Frog**
+
+**Vice-chairperson**     : **Kenward Da Melon**
+```
+ 
+
+
