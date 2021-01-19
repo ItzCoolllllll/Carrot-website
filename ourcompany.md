@@ -31,8 +31,6 @@ One special thing in our 'company' is: **we have two chairpersons**
 The following is our name with our position and some introductions
 
 <span style="color:red;">
-text
-</span>
 
 
 ```
@@ -55,3 +53,4 @@ Secretary Genereal: Aston Wong
 ```
 Talents Data Manager: Hayden Da Frying Pan
 ```
+</span>
