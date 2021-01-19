@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to 蘿蔔先生's official website!
 
+Welcome to our [website](https://makecode.microbit.org/_8JV0DXYzHamA)
+
 In case you came here by accident, here is a [link](https://www.youtube.com/channel/UCivFdElFMoozxWlNqQsyNUw) to his channel.
 
 While you are here, feel free to join our [discord server](https://discord.gg/UdNqmQfZcz)!
