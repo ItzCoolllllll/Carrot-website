@@ -46,7 +46,7 @@ layout: default
   **Alvis da Corn**
   
   ```
-  Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
+  Hello, I am Alvis da Corn, leader of 'Team Laboratory'.
   ```
   
   Feel free to follow me in [instagram](https://www.instagram.com/yshalvis06/)
