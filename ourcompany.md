@@ -30,7 +30,7 @@ One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some introductions
 
-<style>H3{color:Blue;}</style>
+<style>H3{color:Blue}</style>
 
 ```
 Chairperson     : Carrot De Adrian (Founder)
