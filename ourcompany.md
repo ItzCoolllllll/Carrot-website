@@ -5,7 +5,7 @@ layout: default
 ### Our Company
  
  __When you clicked inside here, you should be very shocked or incredible.
- You may be wondering why do we have a **company**.
+ You may be wondering why do we have a __company__.
  Our alliance, in order words, our company is not in reality, however, a place for us to enteretain ourselves.__
 
 Feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
