@@ -30,7 +30,7 @@ One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some introductions
 
-```css
+```fix
 Chairperson     : Carrot De Adrian (Founder)
                 : Thomas Da Frog
 
