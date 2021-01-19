@@ -26,14 +26,14 @@ So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
 One special thing in our company is: **we have two chairpersons**
 
-The following is our our name wit our position and some introductions
+The following is our name wit our position and some introductions
 
 ```
-**Chairperson** + Founder: **Carrot De Adrian**
+Chairperson + Founder: Carrot De Adrian
 
-**Chairperson**          : **Thomas Da Frog**
+Chairperson          : Thomas Da Frog
 
-**Vice-chairperson**     : **Kenward Da Melon**
+Vice-chairperson     : Kenward Da Melon
 ```
  
 
