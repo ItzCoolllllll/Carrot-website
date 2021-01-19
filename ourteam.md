@@ -27,7 +27,7 @@ layout: default
   
   **Thomas da Frog**
   
-  Hello, I am Thomas da Frog, I am the friend of Melon and Carrot.
+  Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn.
   
   Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)
   
