@@ -27,7 +27,7 @@ layout: default
   
   I mostly deal with matters program writing.
   
-  Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)
+  _Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)_
 
   
   **Thomas da Frog**
@@ -38,7 +38,7 @@ layout: default
   
   I mostly deal with the matters about information. 
   
-  Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)
+  _Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)_
   
   
   **Carrot de Adrian**
@@ -49,12 +49,12 @@ layout: default
   
   I mostly deal with the matters about asehetic perception.
   
-  __Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)__
+  _Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)_
  
   
   **Alvis da Corn**
   
   Hello, I am Alvis da Corn, leader of 'Team Laboratory'.
   
-  Feel free to follow me in [instagram](https://www.instagram.com/yshalvis06/)
+  _Feel free to follow me in [instagram](https://www.instagram.com/yshalvis06/)_
   
