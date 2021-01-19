@@ -36,7 +36,7 @@ Chairperson     : Carrot De Adrian (Founder)
 
 Vice-chairperson: Kenward Da Melon
 ```
-`
+```
 Carrot, as stated just now, created LabXTalens in a quite funny way.
 
 -reponsible for both internal and external matters
@@ -46,7 +46,7 @@ Carrot, as stated just now, created LabXTalens in a quite funny way.
 -making websites
 
 -internet matters
-`
+```
 
 
 
@@ -56,13 +56,13 @@ Person-in-Charge     : Alvis Da Corn
 Vice Person-in-Charge: Josh Da Leaf
 ```
 
-`
+````
 -reponsible for both internal and external matters
 
 -making websites
 
 -internet matters
-`
+```
 
 
 
@@ -70,9 +70,9 @@ Vice Person-in-Charge: Josh Da Leaf
 Secretary Genereal: Aston Wong
 ```
 
-`
+```
 -participator and member
-`
+```
 
 
 
@@ -80,9 +80,9 @@ Secretary Genereal: Aston Wong
 Talents Data Manager: Hayden Da Frying Pan
 ```
 
-`
+```
 -repsonsible for managing the data of our talents count
-`
+```
 
 (talents count refers to the number of talents events that have happened)
 
