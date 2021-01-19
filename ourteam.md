@@ -49,7 +49,7 @@ layout: default
   
   I mostly deal with the matters about asehetic perception.
   
-  Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
+  `Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)`
  
   
   `Alvis da Corn`
