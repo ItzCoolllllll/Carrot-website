@@ -40,7 +40,7 @@ Chairperson     : Carrot De Adrian (Founder)
 
 Vice-chairperson: Kenward Da Melon
 ```
-```
+```css
 Carrot, as introduced just now, created LabXTalens in a quite funny way.
 
 -reponsible for both internal and external matters
