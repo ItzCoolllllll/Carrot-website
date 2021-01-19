@@ -36,10 +36,10 @@ layout: default
   
   **Carrot de Adrian**
 
-  ```
-  Hello, I am Carrot De Adrian, a youtuber as stated here.
+  
+  Hello, I am Carrot De Adrian, a youtuber as stated [here](https://itzcoolllllll.github.io/carrot/index).
   I am also one of the editors of this website. I mostly help with some aesthetic matters.
-  ```
+  
   
   Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
  
