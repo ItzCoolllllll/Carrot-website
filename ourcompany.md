@@ -20,7 +20,7 @@ Our chairman, Carrot, accidentally wrote 'Talents Promoting Scheme' (人才推�
 
 Since he thought that his mistake was not only funny but also 'talented', so he had an idea: creating 'Taletns limited company' (人才推廣計畫有限公司).
 
-Moreover. our team name in PUBG is 'Team Laboratory' (實驗室隊).
+Moreover, our team name in PUBG is 'Team Laboratory' (實驗室隊).
 
 So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
@@ -36,7 +36,7 @@ Chairperson     : Carrot De Adrian (Founder)
 
 Vice-chairperson: Kenward Da Melon
 ```
-Carrot, as stated just now, created LabXTalens in a quite funny way.
+`Carrot, as stated just now, created LabXTalens in a quite funny way.
 
 -reponsible for both internal and external matters
 
@@ -44,7 +44,7 @@ Carrot, as stated just now, created LabXTalens in a quite funny way.
 
 -making websites
 
--internet matters
+-internet matters`
 
 ```css
 Person-in-Charge     : Alvis Da Corn
@@ -52,24 +52,24 @@ Person-in-Charge     : Alvis Da Corn
 Vice Person-in-Charge: Josh Da Leaf
 ```
 
--reponsible for both internal and external matters
+`-reponsible for both internal and external matters
 
 -making websites
 
--internet matters
+-internet matters`
 
 ```css
 Secretary Genereal: Aston Wong
 ```
 
--participator and member
+`-participator and member`
 
 ```css
 Talents Data Manager: Hayden Da Frying Pan
 ```
 
--repsonsible for managing the data of our talents count
+`-repsonsible for managing the data of our talents count
 
 (talents count refers to the number of talents events that have happened)
 
-(usually counted in months)
+(usually counted in months)`
