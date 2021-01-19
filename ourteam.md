@@ -21,14 +21,22 @@ layout: default
 
   `Kenward da Melon`
   
-  Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn! I developed the Carrot discord server and this website. 
+  Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn!
+  
+  I developed the Carrot discord server and this website.
+  
+  I mostly deal with matters program writing.
   
   Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)
 
   
   `Thomas da Frog`
   
-  Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn. I am also one of the editors of this website.
+  Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn.
+  
+  I am also one of the editors of this website.
+  
+  I mostly deal with the matters about information. 
   
   Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)
   
@@ -36,7 +44,10 @@ layout: default
   `Carrot de Adrian`
 
   Hello, I am Carrot De Adrian, a youtuber as stated [here](https://itzcoolllllll.github.io/carrot/index).
-  I am also one of the editors of this website. I mostly help with some aesthetic matters.
+  
+  I am also one of the editors of this website.
+  
+  I mostly deal with the matters about asehetic perception.
   
   Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
  
