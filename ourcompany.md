@@ -4,9 +4,9 @@ layout: default
 
 ### Our Company
  
- When you clicked inside here, you should be very shocked or incredible.
+ __When you clicked inside here, you should be very shocked or incredible.
  You may be wondering why do we have a **company**.
- Our alliance, in order words, our company is not in reality, however, a place for us to enteretain ourselves.
+ Our alliance, in order words, our company is not in reality, however, a place for us to enteretain ourselves.__
 
 Feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
 
@@ -24,7 +24,7 @@ So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
 **Members**
 
-One special thing in our company is: **we have two chairpersons**
+One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some introductions
 
@@ -41,4 +41,10 @@ Person-in-Charge     : Alvis Da Corn
 Vice Person-in-Charge: Josh Da Leaf
 ```
 
+```css
+Secretary Genereal: Aston Wong
+```
 
+```css
+Talents Data Manager: Hayden Da Frying Pan
+```
