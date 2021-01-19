@@ -2,6 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     
+   
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -42,8 +43,36 @@
       <!-- footer -->
       <div class="footer">
         <div class="footer-content">
-          <div class="footer-section links"></div>
-          <div class="footer-section contact-form"></div>
+          
+          <div class="footer-section about">
+            <h1 class="logo-text"><span>Carrot </span>Website</h1>
+            <p>
+              This is a website for a young youtuber called Mr Carrot 蘿蔔先生. There are information about him and our 'team' and 'company'.
+            </p>
+          </div>
+          <div class="contact">
+            <span><i class="fas fa-phone"></i> &nbsp; 1234-5678</span>
+            <span><i class="fas fa-envelope"></i> &nbsp; blablabla@gmail.com</span>
+          </div>
+          <div class="socials">
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+            <a href="#"><i class="fab fa-discord"></i></a>
+          </div>
+          
+          
+          <div class="footer-section contact-form">
+            <h2>Contact Us</h2>
+            <br>
+            <form action="default.html" method="post">
+              <input type="email" name="email" class="text-input contact-input" placeholder="Your Email Adress...">
+              <textarea name="message" class="text-input contact-input" placeholder="Your Message..."></textarea>
+              <button type="submit" class="btn btn-big">
+                <i class="fas fa-envelope"></i>
+                Send
+              </button>
+            </form>
+          </div>
         </div>
         
         <div class="footer-bottom">
@@ -56,11 +85,18 @@
           color: #d3d3d3;
           height: 400px;
           postition: relative;
-         }
+        }
         
         .footer .footer-content {
           border: 1px solid red;
           height: 350px;
+          display: flex;
+        }
+        
+        .footer .footer-content. footer-section{
+          flex: 1;
+          padding: 25px;
+          border: 1px solid white;
         }
         
         .footer .footer-bottom {
@@ -74,7 +110,12 @@
           left: 0px;
           padding-top: 20px;
         }
-          
+         body {
+           height: 100%;
+           margin: 0px;
+           padding: 0px;
+        }
+           
       </style>  
           
       <!-- //footer-->
