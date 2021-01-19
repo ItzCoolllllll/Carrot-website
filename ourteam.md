@@ -21,23 +21,30 @@ layout: default
 
   **Kenward da Melon**
   
+  ```
   Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn! I developed the Carrot discord server and this website. 
   
   Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)
+  ```
   
   **Thomas da Frog**
   
+  ```
   Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn.
   
   Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)
+  ```
   
   **Carrot de Adrian**
 
-  
+  ```
   Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
+  ```
   
   **Alvis da Corn**
   
+  ```
   Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
   
   Feel free to follow me in [instagram](https://www.instagram.com/yshalvis06/)
+  ```
