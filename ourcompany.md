@@ -26,7 +26,7 @@ So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
 One special thing in our company is: **we have two chairpersons**
 
-The following is our name wit our position and some introductions
+The following is our name with our position and some introductions
 
 ```
 Chairperson + Founder: Carrot De Adrian
