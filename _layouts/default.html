@@ -71,7 +71,7 @@
             <form action="https://formspree.io/f/xbjpwdrb" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
+                <textarea name="message" placeholder="Type your message" id="message" required></textarea>
                 <button type="submit">Send</button>
             </form>
           </div>
@@ -83,9 +83,12 @@
       </div>
       <style>
         input[type="email"],
-        textarea[name="messgae"]
+        textarea
         {
           background-color: transparent;
+          color: black;
+        }
+        #message {
           color: black;
         }
         .footer {
