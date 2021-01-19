@@ -30,6 +30,8 @@ One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some brief introductions
 
+
+
 Firstly, we have:
 
 ```css
@@ -39,7 +41,7 @@ Chairperson     : Carrot De Adrian (Founder)
 Vice-chairperson: Kenward Da Melon
 ```
 ```
-Carrot, as stated just now, created LabXTalens in a quite funny way.
+Carrot, as introduced just now, created LabXTalens in a quite funny way.
 
 -reponsible for both internal and external matters
 
