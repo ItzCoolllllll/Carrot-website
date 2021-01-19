@@ -52,7 +52,7 @@ layout: default
   
   Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
   
-  **公司/聯盟 簡單介紹**
+  # 公司/聯盟 簡單介紹
   
   我們的主席蘿蔔在中一的通識科某一個小測裏面把「優秀人才入境計畫」寫成「人才推廣計畫」
   
