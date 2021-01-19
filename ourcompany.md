@@ -30,6 +30,8 @@ One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some brief introductions
 
+Firstly, we have:
+
 ```css
 Chairperson     : Carrot De Adrian (Founder)
                 : Thomas Da Frog
@@ -48,7 +50,7 @@ Carrot, as stated just now, created LabXTalens in a quite funny way.
 -internet matters
 ```
 
-
+Secondly, we have:
 
 ```css
 Person-in-Charge     : Alvis Da Corn
@@ -64,7 +66,7 @@ Vice Person-in-Charge: Josh Da Leaf
 -internet matters
 ```
 
-
+Thirdly, we have:
 
 ```css
 Secretary Genereal: Aston Wong
@@ -74,7 +76,7 @@ Secretary Genereal: Aston Wong
 -participator and member
 ```
 
-
+Lastly, we have:
 
 ```css
 Talents Data Manager: Hayden Da Frying Pan
