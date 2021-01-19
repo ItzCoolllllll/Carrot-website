@@ -37,7 +37,8 @@ layout: default
   **Carrot de Adrian**
 
   ```
-  SOMETHING
+  Hello, I am Carrot De Adrian, a youtuber as stated here.
+  I am also one of the editors of this website. I mostly help with some aesthetic matters.
   ```
   
   Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)
