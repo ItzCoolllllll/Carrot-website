@@ -56,7 +56,7 @@ Person-in-Charge     : Alvis Da Corn
 Vice Person-in-Charge: Josh Da Leaf
 ```
 
-````
+```
 -reponsible for both internal and external matters
 
 -making websites
