@@ -19,7 +19,7 @@ layout: default
 
 `Left: Carrot de Adrian; Middle: Kenward da Melon; Right: Alvis da Corn; Right bottom: Thomas da Frog`
 
-  **Kenward da Melon**
+  _**Kenward da Melon**_
   
   Hello, I am Kenward da Melon, I am a friend of Frog, Carrot and Corn!
   
@@ -30,7 +30,7 @@ layout: default
   _Feel free to follow me in [instagram](https://www.instagram.com/kenwardc_1122/)_
 
   
-  **Thomas da Frog**
+  _**Thomas da Frog**_
   
   Hello, I am Thomas da Frog, I am the friend of Melon, Carrot and Corn.
   
@@ -41,7 +41,7 @@ layout: default
   _Feel free to follow me in [instagram](https://www.instagram.com/thomasng.203/)_
   
   
-  **Carrot de Adrian**
+  _**Carrot de Adrian**_
 
   Hello, I am Carrot De Adrian, a youtuber as stated [here](https://itzcoolllllll.github.io/carrot/index).
   
@@ -52,7 +52,7 @@ layout: default
   _Feel free to follow me in [instagram](https://www.instagram.com/skyeccho/)_
  
   
-  **Alvis da Corn**
+  _**Alvis da Corn**_
   
   Hello, I am Alvis da Corn, leader of 'Team Laboratory'.
   
