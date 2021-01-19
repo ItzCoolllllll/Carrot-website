@@ -28,7 +28,7 @@ One special thing in our company is: **we have two chairpersons**
 
 The following is our name with our position and some introductions
 
-```fix
+```css
 Chairperson + Founder: Carrot De Adrian
 
 Chairperson          : Thomas Da Frog
