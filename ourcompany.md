@@ -9,6 +9,7 @@ layout: default
  Our alliance, in order words, our company is not in reality, however, a place for us to enteretain ourselves.
  
 To know more, there are breif introductions about our 'company'.
+Also, feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
 
 **Breif introduction**
 
