@@ -23,7 +23,7 @@ layout: default
 ## 我們的團隊
 
 ```md
--PUBG 團隊: 實驗室]
+[PUBG 團隊: 實驗室]
 
 [隊長: Alvis粟米]
 ```
