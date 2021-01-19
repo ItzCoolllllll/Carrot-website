@@ -39,22 +39,44 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <style>
-.site-footer {
-   position: relative;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: orange;
-   color: white;
-   text-align: center;
-   height: 400px;
-}
-</style>
-        {% endif %}
+      <!-- footer -->
+      <div class="footer">
+        <div class="footer-content">
+          <div class="footer-section links"></div>
+          <div class="footer-section contact-form"></div>
+        </div>
         
+        <div class="footer-bottom">
+          &copy; itzcoolllllll.github.io/carrot | Designed by Kenward Cheung | Powered by Jekryll
+        </div>
+      </div>
+      <style>
+        .footer {
+          background: #FFA500;
+          color: #d3d3d3;
+          height: 400px;
+          postition: relative;
+         }
+        
+        .footer .footer-content {
+          border: 1px solid red;
+          height: 350px;
+        }
+        
+        .footer .footer-bottom {
+          background: #FF0000;
+          color: #686868;
+          height: 50px;
+          width: 100%;
+          text-align: center;
+          position: absolute;
+          bottom: 0px;
+          left: 0px;
+          padding-top: 20px;
+        }
+          
+        
+          
       </footer>
     </main>
   </body>
