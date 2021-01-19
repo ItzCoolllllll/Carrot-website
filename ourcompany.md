@@ -30,23 +30,25 @@ One special thing in our 'company' is: **we have two chairpersons**
 
 The following is our name with our position and some introductions
 
-```css
+<style>H1{color:Blue;}</style>
+
+```
 Chairperson     : Carrot De Adrian (Founder)
                 : Thomas Da Frog
 
 Vice-chairperson: Kenward Da Melon
 ```
 
-```css
+```
 Person-in-Charge     : Alvis Da Corn
 
 Vice Person-in-Charge: Josh Da Leaf
 ```
 
-```css
+```
 Secretary Genereal: Aston Wong
 ```
 
-```css
+```
 Talents Data Manager: Hayden Da Frying Pan
 ```
