@@ -28,7 +28,7 @@ So, we 'established' 'LabXTalents' (實驗室嘅人才推廣計畫有限公司).
 
 One special thing in our 'company' is: **we have two chairpersons**
 
-The following is our name with our position and some introductions
+The following is our name with our position and some brief introductions
 
 ```css
 Chairperson     : Carrot De Adrian (Founder)
@@ -44,7 +44,7 @@ Carrot, as stated just now, created LabXTalens in a quite funny way.
 
 -making websites
 
--internet thing
+-internet matters
 
 ```css
 Person-in-Charge     : Alvis Da Corn
@@ -56,13 +56,13 @@ Vice Person-in-Charge: Josh Da Leaf
 
 -making websites
 
--internet thing
+-internet matters
 
 ```css
 Secretary Genereal: Aston Wong
 ```
 
--participator OR member
+-participator and member
 
 ```css
 Talents Data Manager: Hayden Da Frying Pan
