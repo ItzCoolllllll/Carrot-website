@@ -32,7 +32,7 @@ The following is our name with our position and some introductions
 
 <span style="color:red">
 
-
+> violets are [blue]{color="blue"}
 ```
 Chairperson     : Carrot De Adrian (Founder)
                 : Thomas Da Frog
