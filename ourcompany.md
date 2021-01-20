@@ -96,9 +96,16 @@ In our alliance, we entertain ourselves by different ways.
 
 ```css
 -PUBG mobile
+
 -Fortnite
+
 -talents gaming
+
+-fortnite bots
+
+-chat
 ```
+
 ```css
-If you want to add us as friends in different games, feel free to type below!
+If you want to add us as friends in different games, scroll down and feel free to type!
 ```
