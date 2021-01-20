@@ -107,7 +107,7 @@ In our alliance, we entertain ourselves by different ways.
 ```
 
 ```css
-If you want to add us as friends in different games
+If you want to add us as friends in different games,
 
-Scroll down and feel free to type!
+scroll down and feel free to type!
 ```
