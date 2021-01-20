@@ -91,3 +91,14 @@ Talents Data Manager: Hayden Da Frying Pan
 
 (usually counted in months)
 ```
+
+In our alliance, we entertain ourselves by different ways.
+
+```css
+-PUBG mobile
+-Fortnite
+-talents gaming
+```
+```css
+If you want to add us as friends in different games, feel free to type below!
+```
