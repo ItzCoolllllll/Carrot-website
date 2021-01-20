@@ -3,14 +3,14 @@ layout: default
 ---
 
 ### Our Company
- 
+
 __When you clicked inside here, you should be very shocked or incredible.__
 
 __You may be wondering why do we have a 'company'.__
- 
+
 __Our alliance, in order words, our company is not in reality, however, a place for us to entertain ourselves.__
 
-Feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
+Feel free to follow our [instagram](https://www.instagram.com/labxtalents/).
 
 To know more, there are breif introductions about our 'company':
 
