@@ -101,7 +101,7 @@ In our alliance, we entertain ourselves by different ways.
 
 -talents gaming
 
--fortnite bots
+-discord bots
 
 -chat
 ```
