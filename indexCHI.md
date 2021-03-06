@@ -17,11 +17,7 @@ layout: default
 [![My First Video](http://i3.ytimg.com/vi/7hEmZ3OV_s0/hqdefault.jpg)](https://www.youtube.com/watch?v=7hEmZ3OV_s0&t=4s)
 
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    <p>My latest Video:<br>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/uzgBTzeb1JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
+    
 
 
 
