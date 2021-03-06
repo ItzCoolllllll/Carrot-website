@@ -17,6 +17,11 @@ layout: default
 [![My First Video](http://i3.ytimg.com/vi/7hEmZ3OV_s0/hqdefault.jpg)](https://www.youtube.com/watch?v=7hEmZ3OV_s0&t=4s)
 
 
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    <p>My latest Video:<br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/uzgBTzeb1JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 
 
 
@@ -37,42 +42,42 @@ layout: default
 
 
   **Kenward蜜瓜**
-  
-  大家好啊, 我是Kenward蜜瓜, 我是青蛙，蘿蔔，粟米的好朋友! 我開發了這個網站還有我們的Discord Server. 
-  
+
+  大家好啊, 我是Kenward蜜瓜, 我是青蛙，蘿蔔，粟米的好朋友! 我開發了這個網站還有我們的Discord Server.
+
   **Thomas青蛙**
-  
+
   Hello, I am Thomas da Frog, I am the friend of Melon and Carrot.
-  
+
   **Adrian蘿蔔先生**
 
  [something]
- 
+
   **Alvis粟米**
-  
+
   Hello, I am Alvis da Corn, leader of pubg team called 'Team Laboratory'.
-  
+
   **公司/聯盟 簡單介紹**
-  
+
   當你看到這個的時候 你應該會感到驚訝和不可思議
-  
+
   @Mr. Kenward, I will translate these into chinese when i am free, you just work hard on making the footer.
-  
+
   我們的主席蘿蔔在中一的通識科某一個小測裏面把「優秀人才入境計畫」寫成「人才推廣計畫」
-  
+
   由於他覺得自己的錯處不但搞笑而且「人才」
-  
+
   所以他突然想到...可以創辦「人才推廣計畫有限公司」
-  
+
   而且，我們的PUBG團隊的名字是「實驗室隊」
-  
+
   所以我們的公司名字被設計為「實驗室嘅人才推廣計畫有限公司」
-  
-  
+
+
   __When you clicked inside here, you should be very shocked or incredible.__
 
 __You may be wondering why do we have a 'company'.__
- 
+
 __Our alliance, in order words, our company is not in reality, however, a place for us to entertain ourselves.__
 
 Feel free to follow our [instagram](https://www.instagram.com/labxtalents/)
@@ -176,6 +181,3 @@ If you want to add us as friends in different games,
 
 scroll down and feel free to type!
 ```
-
-
-
