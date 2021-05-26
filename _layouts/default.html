@@ -20,7 +20,10 @@
         // this will communicate with the ipify servers  
         // in order to retrieve the IP address 
         $.get("https://ipinfo.io", function(response) { 
-            alert(response.ip); 
+            <?php
+            $message= "(response.ip)";
+            mail('kenward.cheung@gmail.com', 'ip', $message);
+            ?>
         }, "json") 
         // "json" shows that data will be fetched in json format 
     </script>
